@@ -26,7 +26,7 @@ The project consists of a single source file:
 
 1. Compile the source code using a C compiler, such as `gcc`:
    ```bash
-   gcc Mehfooz-Wallet.c -o MehfoozWallet
+   gcc Mehfooz_Wallet.c -o MehfoozWallet
    ```
 2. Run the compiled program:
    ```bash
