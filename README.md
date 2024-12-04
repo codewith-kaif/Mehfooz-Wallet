@@ -20,3 +20,4 @@ A simple banking system implemented in C. Features include:
 ## Contributors
 - Muhammad Kaif (ID: 12345)
 - Ghulam Muhammad (ID: 67890)
+- Muhammad Umer Danisd (ID: 65432)
